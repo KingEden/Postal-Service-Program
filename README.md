@@ -1,4 +1,4 @@
-# Postal-Service-Program - UML (Isnot Exact)
+# Postal-Service-Program 
 
 -Uses concepts of object oriented programming
 
@@ -11,3 +11,5 @@
 -A complete menu for each operation that includes previous menu 
 
 -Uses Concepts of file Handling.
+
+Note:UML isnot exact
