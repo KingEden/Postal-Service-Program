@@ -12,4 +12,4 @@
 
 -Uses Concepts of file Handling.
 
-Note:UML isnot exact
+Note: UML isnot exact
